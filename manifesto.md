@@ -1,8 +1,6 @@
 # Manifesto GO FAIR Brasil Biodiversidade
 Versão 1.0
 
-
-
 ## Introdução
 
 GO (Global Open) FAIR é uma iniciativa de baixo para cima cujo objetivo é fazer com que dados fragmentados e desconectados sejam Encontráveis, Acessíveis, Interoperáveis e Reusáveis (FAIR na sigla em inglês) por máquinas e pessoas. A iniciativa GO FAIR busca o desenvolvimento de um ambiente global compartilhado para a pesquisa e inovação baseada em dados. O centro da iniciativa é a federação de redes temáticas de excelência existentes que se compromete coletivamente aos Princípios FAIR em termos de estratégias de implementação desses princípios, o que inclui padrões, protocolos, políticas, diretrizes, boas práticas, dentre outros.
