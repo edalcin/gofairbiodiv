@@ -27,6 +27,6 @@ A Rede Temática GO FAIR Biodiversidade é fundamentada em práticas e princípi
 
 A Rede Temática GO FAIR Biodiversidade é aberta à participação de instituições do primeiro, segundo ou terceiro setor, com relação e interesse ao propósito da rede.
 
-A coordenação da rede é feita pelo seu Conselho, presidido pelo representante da instituição coordenadora, cujos membros são todos os representantes indicados pelas instituições participantes.
+A coordenação da rede é feita pelo seu Comitê Gestor (CG), presidido pelo representante da instituição coordenadora, cujos membros são todos os representantes indicados pelas instituições participantes.
 
-A instituição coordenadora é escolhida pelo conselho a cada dois anos, para um mandato pelo mesmo período.
+A instituição coordenadora é escolhida pelo Comitê Gestor a cada dois anos, para um mandato pelo mesmo período.
