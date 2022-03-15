@@ -1,7 +1,7 @@
 # GO FAIR BIODIVERSIDADE
 ## Rede de Implementação Temática sobre Biodiversidade - GO FAIR BRASIL
 
-| [GO FAIR Brasil](https://www.go-fair-brasil.org/)| [Manifesto](https://github.com/edalcin/gofairbiodiv/blob/main/manifesto_v1.md) | [Histórico](https://github.com/edalcin/gofairbiodiv/blob/main/historico.md) | [Comitê Gestor](https://github.com/edalcin/gofairbiodiv/blob/main/comite_gestor.md) | [Instituições Participantes](https://github.com/edalcin/gofairbiodiv/blob/main/participantes.md) |
+| [GO FAIR Brasil](https://www.go-fair-brasil.org/)| [Manifesto](https://github.com/edalcin/gofairbiodiv/blob/main/manifesto.md) | [Histórico](https://github.com/edalcin/gofairbiodiv/blob/main/historico.md) | [Comitê Gestor](https://github.com/edalcin/gofairbiodiv/blob/main/comite_gestor.md) | [Instituições Participantes](https://github.com/edalcin/gofairbiodiv/blob/main/participantes.md) |
 |---|---|---|---|---|
 
 
