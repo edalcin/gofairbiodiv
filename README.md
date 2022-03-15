@@ -15,7 +15,7 @@ As redes de implementação temáticas são sempre lideradas por instituições 
 
 A Rede de Implementação Temática sobre Biodiversidade surgiu em março de 2021 e vem sendo coordenada pelo Instituto de Pesquisas Jardim Botânico do Rio de Janeiro e este espaço no GitHub, com uma [Wiki](https://github.com/edalcin/gofairbiodiv/wiki) e [Fórum de Discussão](https://github.com/edalcin/gofairbiodiv/discussions), pretende ser o ambiente de debate e colaboração da GO FAIR Biodiversidade.
 
-Em breve estaremos divulgando aqui um formulário de adesão para que pessoas, instituições, redes e iniciativas possam se juntar à nós. Fiquem ligados. SUgiro fortemente que criem uma conta gratuita no GitHub e marquem para "acompanhar" nosso repositório, para não perder nenhuma atualização.
+Em breve estaremos divulgando aqui um formulário de adesão para que pessoas, instituições, redes e iniciativas possam se juntar à nós. Fiquem ligados. Sugiro fortemente que criem uma conta gratuita no GitHub e marquem para "acompanhar" nosso repositório, para não perder nenhuma atualização.
 
 Eduardo Dalcin
 
