@@ -1,5 +1,6 @@
 # Manifesto GO FAIR Brasil Biodiversidade
 Versão 1.0
+([Versão "Beta", com os comentários originais](https://docs.google.com/document/d/1WaGLUlJOVa2jrRSnM4MoZcoDMaiwLsimqX99b7r2vZw/edit?usp=sharing)
 
 ## Introdução
 
@@ -19,7 +20,7 @@ A Rede Temática GO FAIR Biodiversidade é fundamentada em práticas e princípi
 ## Objetivos
 
 * Planejar, promover e realizar ações voltadas para disponibilização de dados de biodiversidade que possam ser encontráveis, acessíveis, interoperáveis e reusáveis;
-* Servir como espaço de discussão sobre Ae avanço na gestão de dados sobre biodiversidade;
+* Servir como espaço de discussão sobre o avanço na gestão de dados sobre biodiversidade;
 * Orientar e capacitar pessoas e instituições interessadas nos princípios FAIR em Biodiversidade
 
 
