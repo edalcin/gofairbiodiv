@@ -1,6 +1,6 @@
 # Manifesto GO FAIR Brasil Biodiversidade
 Versão 1.0
-([Versão "Beta", com os comentários originais](https://docs.google.com/document/d/1WaGLUlJOVa2jrRSnM4MoZcoDMaiwLsimqX99b7r2vZw/edit?usp=sharing)
+([Versão "Beta", com os comentários originais](https://docs.google.com/document/d/1WaGLUlJOVa2jrRSnM4MoZcoDMaiwLsimqX99b7r2vZw/edit?usp=sharing))
 
 ## Introdução
 
