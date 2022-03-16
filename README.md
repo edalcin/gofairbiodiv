@@ -17,7 +17,6 @@ A Rede de Implementação Temática sobre Biodiversidade surgiu em março de 202
 
 Em breve estaremos divulgando aqui um formulário de adesão para que pessoas, instituições, redes e iniciativas possam se juntar à nós. Fiquem ligados. Sugiro fortemente que criem uma conta gratuita no GitHub e marquem para "acompanhar" nosso repositório, para não perder nenhuma atualização.
 
-Eduardo Dalcin
-
-Ponto Focal da Instituição Coordenadora
+Eduardo Dalcin<br>
+Ponto Focal da Instituição Coordenadora<br>
 Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
