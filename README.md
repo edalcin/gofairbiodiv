@@ -1,8 +1,8 @@
 # GO FAIR BIODIVERSIDADE
 ## Rede de Implementação Temática sobre Biodiversidade - GO FAIR BRASIL
 
-| [GO FAIR Brasil](https://www.go-fair-brasil.org/)| [Manifesto](https://github.com/edalcin/gofairbiodiv/blob/main/manifesto.md) | [Histórico](https://github.com/edalcin/gofairbiodiv/blob/main/historico.md) | [Comitê Gestor](https://github.com/edalcin/gofairbiodiv/blob/main/comite_gestor.md) | [Instituições Participantes](https://github.com/edalcin/gofairbiodiv/blob/main/participantes.md) |
-|---|---|---|---|---|
+| [GO FAIR Brasil](https://www.go-fair-brasil.org/)| [Manifesto](https://github.com/edalcin/gofairbiodiv/blob/main/manifesto.md) | [Histórico](https://github.com/edalcin/gofairbiodiv/blob/main/historico.md) | [Comitê Gestor](https://github.com/edalcin/gofairbiodiv/blob/main/comite_gestor.md) | [Instituições Participantes](https://github.com/edalcin/gofairbiodiv/blob/main/participantes.md) | [Referências](https://github.com/edalcin/gofairbiodiv/blob/main/referencias.md) |
+|---|---|---|---|---|---|
 
 
 GO (Global Open) FAIR é uma iniciativa com objetivo de fazer com que dados fragmentados e desconectados sejam _Encontráveis_, _Acessíveis_, _Interoperáveis_ e, portanto, _Reutilizável_ (FAIR na sigla em inglês) por máquinas e pessoas. [A iniciativa GO FAIR](https://www.go-fair.org/) busca o desenvolvimento de um ambiente global compartilhado para a pesquisa e inovação baseada em dados. O centro da iniciativa é a federação de redes temáticas de excelência existentes que se compromete coletivamente aos [Princípios FAIR](https://www.go-fair.org/fair-principles/) em termos de estratégias de implementação desses princípios, o que inclui padrões, protocolos, políticas, diretrizes, boas práticas, dentre outros.
