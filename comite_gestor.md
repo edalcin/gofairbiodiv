@@ -7,6 +7,6 @@ O Comitê Gestor é o órgão de governança da Rede de Implementação Temátic
 |---|---|
 | Eduardo Dalcin | Instituto de Pesquisas Jardim Botânico do Rio de Janeiro |
 | Debora Drucker | EMBRAPA |
-|  |  |
+| Keila Elizabeth Mafadem Juarez | RNP |
 |  |  |
 
