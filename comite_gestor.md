@@ -10,3 +10,4 @@ O Comitê Gestor é o órgão de governança da Rede de Implementação Temátic
 | Keila Elizabeth Mafadem Juarez | RNP |
 | Samuel Fernando Schwaida | MMA |
 | Rodrigo Silva Pinto Jorge | ICMBIO |
+| Marcia Chame | FIOCRUZ |
