@@ -17,4 +17,4 @@ Em breve estaremos divulgando aqui um formulário de adesão para que pessoas, i
 
 Eduardo Dalcin<br>
 Ponto Focal da Instituição Coordenadora<br>
-Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+Instituto de Pesquisas Jardim Botânico do Rio de Janeiro - JBRJ
