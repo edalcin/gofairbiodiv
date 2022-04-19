@@ -1,6 +1,5 @@
 ## Primeira Reunião do Comitê Gestor
 
----
 ### Data:
 
 ### Participantes:
