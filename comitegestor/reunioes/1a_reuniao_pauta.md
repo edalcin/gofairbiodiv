@@ -23,17 +23,23 @@
 ### Memória
 
 | Id| Tipo | Quem | {A, I, D, C} | Prazo |
-|--|---|---|---|---|
-|1| C | Saraiva  | Sugere seguir "padrão" do Agro para os documentos fundamentais |  |
-|2| C | Debora | Concorda ser importante o alinhamento |  |
-|3| I | Debora | A GO FAIR Agro consolidou o Manifesto + Carta de Princípios em apenas um documento - [O Manifesto](https://github.com/go-fair-agro/go-fair-agro) |  |
-|4| I | Dalcin | Propõe que a Biodiv tenha apenas um documento também, que seria [O Manifesto](https://github.com/edalcin/gofairbiodiv/blob/main/manifesto.md) |  |
-|5| I | Todos | Concordam com o documento único, seguindo o padrão da GO FAIR Agro |  |
-|6| I | Dalcin | Propõe o ambiente do Github para interação e comunicação do Grupo |  |
-|7| C | Márcia e Saraiva | Propõe, enquanto o grupo estiver pequeno, que usemos o "Google Docs" para validação de textos e documentos |  |
-|8| A | Dalcin | Irá enviar ao grupo o texto da versão atual do Manifesto (1.0) para revisão, com prazo de duas semanas| 2w |
-|9|  |  |  |  |
-|10|  |  |  |  |
+|---|---|---|---|---|
+|| I | Dalcin | Propõe o ambiente do Github para interação e comunicação do Grupo |  |
+|| C | Márcia e Saraiva | Propõe uma forma "híbrida", usando também o "Google Docs" para validação de textos e documentos |  |
+|| I | Dalcin | Propõe validação do [Manifesto V1.0](https://github.com/edalcin/gofairbiodiv/blob/main/manifesto.md). Porém Marcia e Saraiva não tiveram a oportunidade de agregar comentários e sugestões ainda. Uma nova rodada de sugestões e comentários é proposta  |  |
+|| C | Saraiva  | Sugere seguir "padrão" do Agro para os documentos fundamentais |  |
+|| C | Debora | Concorda ser importante o alinhamento |  |
+|| I | Debora | A GO FAIR Agro consolidou o Manifesto + Carta de Princípios em apenas um documento - [O Manifesto](https://github.com/go-fair-agro/go-fair-agro) |  |
+|| I | Dalcin | Propõe que a Biodiv tenha apenas um documento também, que seria [O Manifesto](https://github.com/edalcin/gofairbiodiv/blob/main/manifesto.md) |  |
+|| D | Todos | Concordam com o documento único, seguindo o padrão da GO FAIR Agro |  |
+|| A | Dalcin | Irá enviar ao grupo o texto da versão atual do Manifesto (1.0) para revisão, com prazo de duas semanas| 2w |
+|| I | Debora | Debora lembra dos [templates](https://www.go-fair.org/resources/go-fair-materials/materials-for-ins/) da GO FAIR Internacional, que devem ser considerados |  |
+|| I | Debora | Debora lembra ainda que a recomendação é o lançamento do manifesto em "evento significativo da área, e considera o [WCAMA](https://wcama.wordpress.com/) como uma possibilidade |  |
+|| C | Rodrigo | Rodrigo questiona os membros potenciais da rede e Dalcin compartilha um "mind map" de instituições (governamentais e não-governamentaios) e iniciativas consideradas, inicialmente |  |
+|| C | Dalcin | Dalcin sugere um movimento, não excludente ao evento, de divulgação em redes de contato, por email. Inicialmente dos membros do comitê gestor, divulgando o Manifesto e o Fomulário de Subscrição, solicitando compartilhamento |  |
+|| C | Saraiva | Saraiva comenta que a Biodiversidade tem universi amplo e sugere um evento de ampliação da rede|  |
+|| I | Marcia | Informa sobre a iniciativa "ISO da Biodiversidade" |  |
+||  |  |  |  |
 ||  |  |  |  |
 ||  |  |  |  |
 ||  |  |  |  |
