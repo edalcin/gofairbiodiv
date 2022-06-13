@@ -2,6 +2,7 @@
 Versão 1.0
 
 ([Versão "Beta", com os comentários originais](https://docs.google.com/document/d/1WaGLUlJOVa2jrRSnM4MoZcoDMaiwLsimqX99b7r2vZw/edit?usp=sharing))
+([Versão em revisão](https://docs.google.com/document/d/1Tm4wZGIbXEEQ0MZv8LceqfvtHfoGsq73gJh3AykyTFs/edit?usp=sharing))
 
 ## Introdução
 
